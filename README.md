@@ -7,6 +7,8 @@ iOS app: Displays random cats with facts in 4 languages
 - UIKit
 - URLSession
 - Combine
+- UserDefaults (persistence)
+- os Logger (logging)
 - XCTest
 - MVVM
 
